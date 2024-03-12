@@ -1,0 +1,1 @@
+self.__RSC_CSS_MANIFEST={"__entry_css__":{"/Users/matejforejt/Desktop/Portfolio/Metaverse/app/page":["/Users/matejforejt/Desktop/Portfolio/Metaverse/styles/globals.css"]},"/Users/matejforejt/Desktop/Portfolio/Metaverse/app/layout.js":["/Users/matejforejt/Desktop/Portfolio/Metaverse/styles/globals.css"]}
